@@ -1,0 +1,6 @@
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES
+(2, 'Calderon', 1050, 'Azogues', '2023-01-26', 'Joel', 'NA', 2050, '012345678999'),
+(3, 'Sisalima', 450, 'Loja', '2023-01-26', 'Erika', 'NA', 1000, '0997933304'),
+(4, 'Calle', 50, 'Paute', '2023-01-26', 'Erick', 'Ninguna', 1000, '1023554884');
+
+https://drive.google.com/drive/folders/1FXHB8n5r1yB7GUgsx0qcJ-D-EpKr2PKf?usp=share_link
